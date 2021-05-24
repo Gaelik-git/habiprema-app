@@ -43,9 +43,7 @@ export default class Nipe extends React.Component<{}, NipeState> {
   }
 
   handleChangeLogs = (event: { target: { value: string; }; }) => {
-    console.log(event.target.value);
     this.setState({logs: event.target.value.split(`\n`)});
-
   }
 
   excecution = () => {
