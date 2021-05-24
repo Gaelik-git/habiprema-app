@@ -43,5 +43,6 @@
   },
   "devDependencies": {
     "@types/xlsx": "^0.0.36"
-  }
+  },
+  "homepage": "https://gaelik-git.github.io/habiprema-app"
 }

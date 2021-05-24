@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/static/js/main.5291b9a8.chunk.js",
-    "main.js.map": "/static/js/main.5291b9a8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.19441aa9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.19441aa9.js.map",
-    "static/js/2.03134d04.chunk.js": "/static/js/2.03134d04.chunk.js",
-    "static/js/2.03134d04.chunk.js.map": "/static/js/2.03134d04.chunk.js.map",
-    "static/js/3.f32d8aea.chunk.js": "/static/js/3.f32d8aea.chunk.js",
-    "static/js/3.f32d8aea.chunk.js.map": "/static/js/3.f32d8aea.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.03134d04.chunk.js.LICENSE.txt": "/static/js/2.03134d04.chunk.js.LICENSE.txt"
+    "main.css": "/habiprema-app/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/habiprema-app/static/js/main.5291b9a8.chunk.js",
+    "main.js.map": "/habiprema-app/static/js/main.5291b9a8.chunk.js.map",
+    "runtime-main.js": "/habiprema-app/static/js/runtime-main.47d82516.js",
+    "runtime-main.js.map": "/habiprema-app/static/js/runtime-main.47d82516.js.map",
+    "static/js/2.03134d04.chunk.js": "/habiprema-app/static/js/2.03134d04.chunk.js",
+    "static/js/2.03134d04.chunk.js.map": "/habiprema-app/static/js/2.03134d04.chunk.js.map",
+    "static/js/3.f32d8aea.chunk.js": "/habiprema-app/static/js/3.f32d8aea.chunk.js",
+    "static/js/3.f32d8aea.chunk.js.map": "/habiprema-app/static/js/3.f32d8aea.chunk.js.map",
+    "index.html": "/habiprema-app/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/habiprema-app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.03134d04.chunk.js.LICENSE.txt": "/habiprema-app/static/js/2.03134d04.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.19441aa9.js",
+    "static/js/runtime-main.47d82516.js",
     "static/js/2.03134d04.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.5291b9a8.chunk.js"
